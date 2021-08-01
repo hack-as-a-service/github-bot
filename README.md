@@ -1,2 +1,3 @@
-# github_bot
+# github-bot
+
 GitHub bot for haas
